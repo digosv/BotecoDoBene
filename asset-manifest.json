@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BotecoDoBene/static/css/main.85e143d6.css",
-    "main.js": "/BotecoDoBene/static/js/main.93d330f3.js",
+    "main.js": "/BotecoDoBene/static/js/main.86d8137c.js",
     "static/js/453.411ee32c.chunk.js": "/BotecoDoBene/static/js/453.411ee32c.chunk.js",
     "static/media/imperiolager.png": "/BotecoDoBene/static/media/imperiolager.ed8b41cd7ab94db1bf82.png",
     "static/media/polvoavinagrete.jpeg": "/BotecoDoBene/static/media/polvoavinagrete.1e34802c02b51d418790.jpeg",
@@ -25,11 +25,11 @@
     "static/media/original.avif": "/BotecoDoBene/static/media/original.d404d5756000a45678a3.avif",
     "index.html": "/BotecoDoBene/index.html",
     "main.85e143d6.css.map": "/BotecoDoBene/static/css/main.85e143d6.css.map",
-    "main.93d330f3.js.map": "/BotecoDoBene/static/js/main.93d330f3.js.map",
+    "main.86d8137c.js.map": "/BotecoDoBene/static/js/main.86d8137c.js.map",
     "453.411ee32c.chunk.js.map": "/BotecoDoBene/static/js/453.411ee32c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85e143d6.css",
-    "static/js/main.93d330f3.js"
+    "static/js/main.86d8137c.js"
   ]
 }
